@@ -1,0 +1,11 @@
+C:\Users\kubik\source\repos\DU - list\DU - list\bin\Debug\DU - list.exe.config
+C:\Users\kubik\source\repos\DU - list\DU - list\bin\Debug\DU - list.exe
+C:\Users\kubik\source\repos\DU - list\DU - list\bin\Debug\DU - list.pdb
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU - list.csproj.AssemblyReference.cache
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU - list.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU___list.Form1.resources
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU___list.Properties.Resources.resources
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU - list.csproj.GenerateResource.cache
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU - list.csproj.CoreCompileInputs.cache
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU - list.exe
+C:\Users\kubik\source\repos\DU - list\DU - list\obj\Debug\DU - list.pdb
